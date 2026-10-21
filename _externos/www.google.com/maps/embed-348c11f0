@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="ESNFSR4cH1d4qaD5hoRwPw">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["551842377339013291","1441887108073184555"],"/g/11q896gz7j",null,[4216066858,3923753608],null,null,null,null,null,null,null,null,null,null,"gcid:shopping_center"],0,0,null,null,0,null,0,0]]]],null,["pt_BR","ie"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"zojXasLWHI_Y7M8P48jGwQQ",null,null,null,[[[3952.048034250633,-37.1213688,-7.890043800000001],[0,0,0],null,13.10000038146973],null,0,[["0x7a889b7e94c88ab:0x14029caf72eadd2b","Shopping Bormoratt - R. Pref. Inácio José Feitosa, 131, Monteiro - PB, 58500-000, Brasil",[-7.8900438,-37.1213688],"1441887108073184555"],"Shopping Bormoratt",["R. Pref. Inácio José Feitosa, 131","Monteiro - PB","58500-000, Brasil"],4.400000095367432,"70 avaliações",null,null,"+55 83 99960-4341",null,null,null,null,"Shopping center","R. Pref. Inácio José Feitosa, 131, Monteiro - PB, 58500-000, Brasil",null,null,null,null,null,null,null,null,null,null,null,null,null,"ChIJq4hM6beJqAcRK93qcq-cAhQ",null,null,"2ahUKEwjC9YHa9MiXAxUPLPsDHWOkMUgQ8BcoAHoECAAQAg",null,null,["tel:+5583999604341"],null,null,null,1,["2ahUKEwjC9YHa9MiXAxUPLPsDHWOkMUgQqtMBKAp6BAgAEA0",["69444V5H+XF"],["4V5H+XF Monteiro, Paraíba, Brasil"],2],[[["terça-feira",2,[2026,10,20],[["07:00–21:00",[[7],[21]]]],0,1],["quarta-feira",3,[2026,10,21],[["07:00–21:00",[[7],[21]]]],0,1],["quinta-feira",4,[2026,10,22],[["07:00–21:00",[[7],[21]]]],0,1],["sexta-feira",5,[2026,10,23],[["07:00–21:00",[[7],[21]]]],0,1],["sábado",6,[2026,10,24],[["07:00–21:00",[[7],[21]]]],0,1],["domingo",7,[2026,10,25],[["Fechado"]],0,2],["segunda-feira",1,[2026,10,26],[["07:00–21:00",[[7],[21]]]],0,1]],[["terça-feira",2,[2026,10,20],[["07:00–21:00",[[7],[21]]]],0,1],0,1,null,["Aberto · Fecha 21:00",[[0,6,[null,[4281040703,4285388172]]]]],["Aberto · Fecha 21:00",[[0,6,[null,[4281040703,4285388172]]]]],null,[20],["Aberto",[[0,6,[null,[4281040703,4285388172]]]]]],2,null,null,null,1]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/66/9d/intl/pt_br/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/66/9d/intl/pt_br/init_embed.js" nonce="ESNFSR4cH1d4qaD5hoRwPw" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=pt_BR&amp;region=ie&amp;experimentation=allowed&amp;callback=onApiLoad" nonce="ESNFSR4cH1d4qaD5hoRwPw" async defer></script>
+  </body>
+</html>

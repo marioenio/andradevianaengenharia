@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="OJqfQlHONbezbyRmLlipVQ">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["510625315292093601","3848691931797418395"],"/g/11gfmjd4ch",null,[4165147859,3910427201],null,null,null,null,null,null,null,null,null,null,"gcid:business_center"],0,0,null,null,0,null,0,0]]]],null,["pt_BR","ie"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"v4jXarvRCaqokdUPpLaliAQ",null,null,null,[[[3887.842186625497,-38.4540095,-12.9819437],[0,0,0],null,13.10000038146973],null,0,[["0x7161b04d34e9ca1:0x35694cebb4b2719b","THAIS BRAGA | ADVOCACIA TRABALHISTA, Edifício Advanced Trade Center - R. Frederico Simões, 98 - sala 1114 - Caminho das Árvores, Salvador - BA, 41820-774, Brasil",[-12.9819437,-38.4540095],"3848691931797418395"],"THAIS BRAGA | ADVOCACIA TRABALHISTA",["Edifício Advanced Trade Center","R. Frederico Simões, 98 - sala 1114 - Caminho das Árvores","Salvador - BA, 41820-774, Brasil"],4.599999904632568,"139 avaliações",null,null,"+55 71 98810-5496",null,null,null,null,"Centro comercial","Edifício Advanced Trade Center - R. Frederico Simões, 98 - sala 1114 - Caminho das Árvores, Salvador - BA, 41820-774, Brasil",null,null,null,null,null,null,null,null,null,null,null,null,null,"ChIJoZxO0wQbFgcRm3GytOtMaTU",null,null,"2ahUKEwj7rNvS9MiXAxUqVKQEHSRbCUEQ8BcoAHoECAAQAg",null,null,["tel:+5571988105496"],null,null,null,1,["2ahUKEwj7rNvS9MiXAxUqVKQEHSRbCUEQqtMBKAp6BAgAEA0",["59V32G9W+69"],["2G9W+69 Caminho das Árvores, Salvador - BA, Brasil"],2],[[["terça-feira",2,[2026,10,20],[["08:00–18:00",[[8],[18]]]],0,1],["quarta-feira",3,[2026,10,21],[["08:00–18:00",[[8],[18]]]],0,1],["quinta-feira",4,[2026,10,22],[["08:00–18:00",[[8],[18]]]],0,1],["sexta-feira",5,[2026,10,23],[["08:00–18:00",[[8],[18]]]],0,1],["sábado",6,[2026,10,24],[["Fechado"]],0,2],["domingo",7,[2026,10,25],[["Fechado"]],0,2],["segunda-feira",1,[2026,10,26],[["08:00–18:00",[[8],[18]]]],0,1]],[["terça-feira",2,[2026,10,20],[["08:00–18:00",[[8],[18]]]],0,1],0,1,null,["Aberto · Fecha 18:00",[[0,6,[null,[4281040703,4285388172]]]]],["Aberto · Fecha 18:00",[[0,6,[null,[4281040703,4285388172]]]]],null,[17],["Aberto",[[0,6,[null,[4281040703,4285388172]]]]]],2,null,null,null,1]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/66/9d/intl/pt_br/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/66/9d/intl/pt_br/init_embed.js" nonce="OJqfQlHONbezbyRmLlipVQ" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=pt_BR&amp;region=ie&amp;experimentation=allowed&amp;callback=onApiLoad" nonce="OJqfQlHONbezbyRmLlipVQ" async defer></script>
+  </body>
+</html>
